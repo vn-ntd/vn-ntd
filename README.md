@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="mailto:nguyentiendung12022006.vn@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-nguyentiendung12022006.vn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/vn-ntd" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -36,6 +36,7 @@
 - ⚙️ Làm việc với luồng ASIC mã nguồn mở (OpenROAD, OpenLane, SkyWater 130nm PDK) và kiến trúc vi xử lý **RISC-V**.
 - 🛠️ Có kinh nghiệm về phân tích **STA (Static Timing Analysis)**, giải quyết Timing Closure (ECO), phân tích mạng phân phối điện **PDN (IR Drop)**.
 - 🚀 Thích xây dựng các script tự động hóa luồng thiết kế (Python, Bash/Tcl) và các thuật toán tối ưu phần cứng.
+- 📬 **Email liên hệ:** [nguyentiendung12022006.vn@gmail.com](mailto:nguyentiendung12022006.vn@gmail.com)
 
 ---
 
