@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Nguyen%20Tien%20Dung&fontSize=38&fontColor=ffffff&fontAlignY=38&subtext=ASIC%20%2F%20IC%20Physical%20Design%20Engineer%20%E2%80%A2%20RTL-to-GDSII&subfontSize=16&subfontAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Nguyen%20Tien%20Dung&fontSize=38&fontColor=ffffff&fontAlignY=38&subtext=ASIC%20Physical%20Design%20(RTL-to-GDSII)%20Enthusiast&subfontSize=16&subfontAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=ASIC+%2F+IC+Physical+Design+Engineer;Full-Flow+RTL-to-GDSII+Implementation;STA+Timing+Closure+(ECO)+%26+Clock+Tree+Synthesis;Power+Integrity+(PDN)+%26+Static+IR-Drop+Analysis;Physical+Verification+(DRC%2FLVS)+on+SkyWater+130nm;EDA+Automation+with+Tcl%2C+Python+%26+Bash" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=ASIC+Physical+Design+Student;Full-Flow+RTL-to-GDSII+Implementation;STA+Timing+Closure+(ECO)+%26+Clock+Tree+Synthesis;Power+Integrity+(PDN)+%26+Static+IR-Drop+Analysis;Physical+Verification+(DRC%2FLVS)+on+SkyWater+130nm;EDA+Automation+with+Tcl%2C+Python+%26+Bash" alt="Typing SVG" />
   </a>
 
   <!-- Meta Badges -->
@@ -18,16 +18,12 @@
 
   <!-- Contact & Socials -->
   <p align="center">
-    <a href="mailto:nguyentiendung12022006.vn@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-nguyentiendung12022006.vn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
     <a href="https://github.com/vn-ntd" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-vn--ntd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://facebook.com/dung.12.02.2006" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <a href="https://www.linkedin.com/in/vn-ntd" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -37,13 +33,13 @@
 
 ### 👨‍💻 Giới thiệu (About Me)
 
-Kỹ sư định hướng chuyên sâu vào **ASIC / IC Physical Design (Backend)** và quy trình hiện thực hóa vi mạch số từ mã nguồn RTL đến layout chế tạo silicon (**RTL-to-GDSII**).
+Sinh viên định hướng chuyên sâu vào **ASIC / IC Physical Design (Backend)** và quy trình hiện thực hóa vi mạch số từ mã nguồn RTL đến layout chế tạo silicon (**RTL-to-GDSII**).
 
 * 🔬 **Quy trình Physical Design (RTL-to-GDSII)**: Thực thi trọn vẹn luồng thiết kế vật lý bao gồm: Floorplanning, Power Planning (PDN), Standard Cell Placement, Clock Tree Synthesis (CTS), Routing và Post-route Optimization.
-* ⏱️ **Timing Closure & STA**: Thành thạo phân tích Static Timing Analysis (STA), kiểm soát đường trễ Setup/Hold, giải quyết vi phạm timing thông qua **Timing ECO** (Buffer Insertion, Cell Sizing, Pin Swapping) và quản lý ràng buộc SDC.
-* ⚡ **Toàn vẹn nguồn & Vật lý (Power & Reliability)**: Xây dựng lưới phân phối nguồn (Power Ring / Stripes), phân tích sụt áp **IR-Drop**, kiểm soát điện di động (EM) và tối ưu hóa diện tích / công suất (PPA).
-* 🛡️ **Kiểm tra vật lý (Physical Signoff)**: Đảm bảo thiết kế đạt chuẩn chế tạo với **100% Clean DRC & LVS**, kiểm tra Antenna rules và trích xuất tham số ký sinh (Parasitic Extraction) trên tiến trình **SkyWater 130nm PDK**.
-* ⚙️ **EDA Scripting & Automation**: Thành thạo lập trình kịch bản **Tcl**, **Python** và **Bash** để tự động hóa quy trình EDA, phân tích log và trích xuất chỉ số chất lượng thiết kế (QoR / PPA).
+* ⏱️ **Timing Closure & STA**: Nắm vững nguyên lý Static Timing Analysis (STA), kiểm soát đường trễ Setup/Hold, giải quyết vi phạm timing thông qua **Timing ECO** (Buffer Insertion, Cell Sizing, Pin Swapping) và quản lý ràng buộc SDC.
+* ⚡ **Toàn vẹn nguồn & Vật lý (Power & Reliability)**: Xây dựng lưới phân phối nguồn (Power Ring / Stripes), mô phỏng sụt áp **IR-Drop**, kiểm soát điện di động (EM) và tối ưu hóa diện tích / công suất (PPA).
+* 🛡️ **Kiểm tra vật lý (Physical Signoff)**: Nắm vững quy trình signoff chế tạo với **100% Clean DRC & LVS**, kiểm tra Antenna rules và trích xuất tham số ký sinh (Parasitic Extraction) trên tiến trình **SkyWater 130nm PDK** và **GPDK 90nm**.
+* ⚙️ **EDA Scripting & Automation**: Có kinh nghiệm lập trình kịch bản **Tcl**, **Python** và **Bash** để tự động hóa quy trình EDA, phân tích log và trích xuất chỉ số chất lượng thiết kế (QoR / PPA).
 
 ---
 
@@ -74,7 +70,7 @@ flowchart LR
 | 🚀 **Placement & Clock Tree Synthesis (CTS)** | Global & Detailed Placement, tối ưu hóa mật độ cell (Cell Density), giải tỏa nghẽn dây (Congestion), cấu trúc cây xung nhịp (Clock Inverter/Buffer Trees), cân bằng Clock Skew và hạn chế Insertion Delay. | `OpenROAD` `TritonCTS` |
 | 🛣️ **Routing & DRC Closure** | Global Routing (FastRoute), Detailed Routing (TritonRoute), gán lớp kim loại (Layer Assignment), sửa lỗi Design Rule Check (DRC) và bảo vệ chân cổng tránh lỗi Antenna. | `TritonRoute` `KLayout` `Magic` |
 | ⏱️ **Static Timing Analysis (STA) & ECO** | Khai báo ràng buộc thời gian (SDC), phân tích các góc hoạt động (PVT Corners), đóng vi phạm thời gian Setup/Hold bằng phương pháp Timing ECO Closure (Cell Resizing, Buffer Insertion). | `OpenSTA` `Python Automation` |
-| 🔍 **Physical Verification & Signoff** | Kiểm tra quy tắc hình học (DRC), đối soát sơ đồ nguyên lý với layout (LVS), kiểm tra lỗi điện (ERC), trích xuất ký sinh SPEF (Parasitic Extraction) và xuất file GDSII chuẩn tapeout. | `Magic VLSI` `Netgen` `KLayout` |
+| 🔍 **Physical Verification & Signoff** | Kiểm tra quy tắc hình học (DRC), đối soát sơ đồ nguyên lý với layout (LVS), kiểm tra lỗi điện (ERC), trích xuất ký sinh SPEF (Parasitic Extraction) và xuất file GDSII chuẩn tapeout. | `Magic VLSI` `Netgen` `Cadence Assura` |
 | 🤖 **EDA Scripting & Automation** | Xây dựng script tự động hóa luồng chạy từ RTL đến GDSII, trích xuất dữ liệu timing/area từ log file, tự động hóa quy trình phân tích và báo cáo chất lượng PPA. | `Tcl / Tk` `Python` `Bash / Shell` `Linux` |
 
 ---
@@ -94,10 +90,12 @@ flowchart LR
 #### ⚡ EDA Tools & PDKs
 <p>
   <img src="https://img.shields.io/badge/SkyWater_130nm-PDK_Technology-00695C?style=flat-square&logo=circuitverse&logoColor=white" alt="SkyWater 130nm" />
+  <img src="https://img.shields.io/badge/GPDK_90nm-Cadence_PDK-004D40?style=flat-square" alt="GPDK 90nm" />
   <img src="https://img.shields.io/badge/OpenLane-ASIC_Flow-0284c7?style=flat-square" alt="OpenLane" />
   <img src="https://img.shields.io/badge/OpenROAD-Physical_Design-2563eb?style=flat-square" alt="OpenROAD" />
   <img src="https://img.shields.io/badge/OpenSTA-Timing_Analysis-6b21a8?style=flat-square" alt="OpenSTA" />
-  <img src="https://img.shields.io/badge/Yosys-Logic_Synthesis-ea580c?style=flat-square" alt="Yosys" />
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-Custom_Layout-cc0000?style=flat-square" alt="Cadence Virtuoso" />
+  <img src="https://img.shields.io/badge/Cadence_Assura-DRC%20%2F%20LVS%20%2F%20RCX-b30000?style=flat-square" alt="Cadence Assura" />
   <img src="https://img.shields.io/badge/Magic_VLSI-DRC_&_Extraction-15803d?style=flat-square" alt="Magic" />
   <img src="https://img.shields.io/badge/Netgen-LVS_Signoff-047857?style=flat-square" alt="Netgen" />
   <img src="https://img.shields.io/badge/KLayout-GDSII_Viewer-0f766e?style=flat-square" alt="KLayout" />
@@ -121,9 +119,10 @@ flowchart LR
 | Dự án | Mô tả Kỹ thuật & Kết quả Đạt được | Ngăn xếp Công nghệ |
 | :--- | :--- | :--- |
 | 🚀 [**`riscv_picorv32_sky130_asic_flow`**](https://github.com/vn-ntd/riscv_picorv32_sky130_asic_flow) | • Triển khai hoàn chỉnh luồng **RTL-to-GDSII** cho lõi vi xử lý **32-bit RISC-V (PicoRV32)**.<br/>• Đạt tần số hoạt động **133.3 MHz** với hệ số sử dụng diện tích lõi **Core Utilization ~70%**.<br/>• Đạt **100% Clean DRC, LVS & Antenna signoff** trên tiến trình **SkyWater 130nm PDK**. | `Verilog` `SkyWater 130nm` `OpenLane` `OpenROAD` `Magic` `Netgen` |
-| ⏱️ [**`sta_timing_closure_eco`**](https://github.com/vn-ntd/sta_timing_closure_eco) | • Bộ công cụ và kịch bản phân tích Static Timing Analysis tự động hóa.<br/>• Tự động trích xuất slack vi phạm (Setup/Hold), đề xuất và thực hiện chèn buffer / cell sizing để đóng **Timing ECO Closure** hiệu quả. | `Python` `OpenSTA` `SDC Constraints` `EDA Automation` |
-| ⚡ [**`pdn_analysis_ir_drop`**](https://github.com/vn-ntd/pdn_analysis_ir_drop) | • Mô phỏng và phân tích mạng lưới cấp nguồn (Power Distribution Network).<br/>• Đánh giá sụt áp tĩnh (Static IR-Drop), phát hiện các điểm nghẽn nguồn (hotspots) và tối ưu hóa mật độ thanh dẫn nguồn. | `Python` `PDN Modeling` `IR-Drop Analysis` |
-| 🧰 [**`pd_flow_toolkit`**](https://github.com/vn-ntd/pd_flow_toolkit) | • Bộ công cụ script chuyên dụng cho kỹ sư Physical Design.<br/>• Tự động parse file log từ các công cụ EDA, trích xuất báo cáo chất lượng PPA (Power, Performance, Area) và tạo biểu đồ trực quan. | `Tcl` `Python` `Bash` `CI/CD for EDA` |
+| 🧰 [**`pd_flow_toolkit`**](https://github.com/vn-ntd/pd_flow_toolkit) | • Bộ công cụ script chuyên dụng cho kỹ sư Physical Design.<br/>• Tự động parse file log từ các công cụ EDA (OpenROAD, Innovus), SDC linter, và tạo Dashboard HTML phân tích chất lượng PPA trực quan. | `Python` `Rich CLI` `SDC Linter` `Dashboard HTML` |
+| ⚡ [**`pdn_analysis_ir_drop`**](https://github.com/vn-ntd/pdn_analysis_ir_drop) | • Mô phỏng và phân tích mạng lưới cấp nguồn (Power Distribution Network).<br/>• Đánh giá sụt áp tĩnh (Static IR-Drop) & động (Dynamic IR-Drop), kiểm soát EM và tối ưu hóa thỏa hiệp Pareto giữa sụt áp và tắc nghẽn định tuyến. | `Python` `MNA Solver` `PDN Modeling` `IR-Drop Analysis` |
+| ⏱️ [**`sta_timing_closure_eco`**](https://github.com/vn-ntd/sta_timing_closure_eco) | • Bộ mô hình giải tích Static Timing Analysis (NLDM delay model, OCV, CRPR) và thuật toán Timing ECO tự động hóa bằng Python.<br/>• Tự động trích xuất slack vi phạm (Setup/Hold), đề xuất chèn buffer và sizing theo margin kiểm soát rò rỉ. | `Python` `STA Modeling` `Timing ECO` `OCV/CRPR` |
+| 🔬 [**`full_adder_opt`**](https://github.com/vn-ntd/full_adder_opt) | • Thiết kế, layout và trích xuất ký sinh RCX bộ cộng toàn phần CMOS 28T Mirror Adder trên tiến trình GPDK 90nm.<br/>• Tiết kiệm **27.67% diện tích layout** và **26.11% công suất tiêu thụ** so với kiến trúc truyền thống 36T.<br/>• 100% Clean Assura DRC và LVS Match. | `Cadence Virtuoso` `Cadence Assura` `Spectre` `RCX PEX` |
 
 ---
 
